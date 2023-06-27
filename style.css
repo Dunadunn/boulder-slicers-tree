@@ -1,0 +1,15 @@
+body {
+    background-color: #f0f0f0;
+    font-family: Arial, sans-serif;
+}
+
+.Weapon {
+    color: #333;
+    text-align: center;
+    font-size: 2em;
+    margin-top: 500px;
+}
+
+.img-container {
+    text-align: center;
+}
